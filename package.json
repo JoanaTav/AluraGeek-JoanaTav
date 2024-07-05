@@ -1,0 +1,13 @@
+{
+  "name": "challenge-alurageek",
+  "version": "1.0.0",
+  "description": "Challenge AluraGeek",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./database/db.json --port 3000",
+    "dev": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nome": "PlayStation 5",
+    "valor": 3.599,
+    "imagem": "https://m.media-amazon.com/images/I/51VZErxKwkL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Xbox Series S",
+    "valor": 2.499,
+    "imagem": "https://m.media-amazon.com/images/I/51pNvD-nsvL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Nintendo Switch",
+    "valor": 2.129,
+    "imagem": "https://m.media-amazon.com/images/I/61-HKEUNy-L.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "PlayStation 4",
+    "valor": 2.295,
+    "imagem": "https://m.media-amazon.com/images/I/61I1QTZdW1L.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Spider-Man Miles Morales PS5",
+    "valor": 285.99,
+    "imagem": "https://m.media-amazon.com/images/I/81MlYALJg5L._AC_UL320_.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "God Of War 2018 PS4",
+    "valor": 90.99,
+    "imagem": "https://m.media-amazon.com/images/I/81N142alGkL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "The Last Of Us Pt1 PS5",
+    "valor": 349.99,
+    "imagem": "https://m.media-amazon.com/images/I/81KoGd-98cL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Marvel's Spider-Man PS4",
+    "valor": 238.99,
+    "imagem": "https://m.media-amazon.com/images/I/61M-m5hygqS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Grand Theft Auto V PS4",
+    "valor": 128.99,
+    "imagem": "https://m.media-amazon.com/images/I/71nG5EM2HbL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Animal Crossing Nintendo Switch",
+    "valor": 279.99,
+    "imagem": "https://m.media-amazon.com/images/I/81UfEdvf2kL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "EA SPORTS FC 24 PS4",
+    "valor": 296.99,
+    "imagem": "https://m.media-amazon.com/images/I/61te8AW6zjL._AC_UF350,350_QL50_.jpg"
+  },
+  {
+    "id": 12,
+    "nome": "Super Mario Bros. Nintendo Switch ",
+    "valor": 373.99,
+    "imagem": "https://m.media-amazon.com/images/I/81muAoYvaZL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 13,
+    "nome": "The Legend Of Zelda: Breath Of The Wild Nintendo Switch",
+    "valor": 297.99,
+    "imagem": "https://m.media-amazon.com/images/I/81KGsbq8ekL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 14,
+    "nome": "The Witcher 3: Wild Hunt PS4",
+    "valor": 149.99,
+    "imagem": "https://m.media-amazon.com/images/I/71f3MpaIj0S._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 15,
+    "nome": "Ratchet & Clank: Em Uma Outra Dimensão PS5",
+    "valor": 159.99,
+    "imagem": "https://m.media-amazon.com/images/I/613kWig1C1L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 16,
+    "nome": "Red Dead Redemption 2 PS4",
+    "valor": 121.99,
+    "imagem": "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_UF1000,1000_QL80_.jpg"
+  }
+]
