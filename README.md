@@ -1,6 +1,6 @@
 # Challenge Alura Geek
 
-Projeto desenvolvido durante o curso Formação Front End T6 - ONE + Alura
+Projeto desenvolvido durante o curso Formação Front End T6 - ONE Oracle + Alura
 
 O projeto Alura Geek é um e-commerce com estética gamer. O objetivo desse desafio, é a prática do CRUD, mais especificamente a parte de Create, Read e Delete (Criação, Leitura e Exclusão).
 
